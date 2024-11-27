@@ -50,8 +50,6 @@ Once the program starts, a window will pop up showing the digital clock with a c
    - The time updates continuously within the loop, adjusting the second, minute, and hour accordingly.
 
 ## License
-This project is open-source and free to use.
+This project is licensed under the BSD 2-Clause License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize or add more details based on your specific needs!
